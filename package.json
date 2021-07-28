@@ -1,0 +1,13 @@
+{
+  "name": "ola-mundo",
+  "version": "1.0.0",
+  "description": "ola mundo",
+  "main": "index.html",
+
+  "keywords": [
+    "ola",
+    "mundo"
+  ],
+  "author": "Marcos Antônio",
+  "license": "ISC"
+}
